@@ -1,3 +1,3 @@
-# Danae_and_Shaelo_on_Strawberry_Summit
+Danae & Shaelo on Strawberry Summit
 
 My daughter, Danae, and son, Shaelo, have a basket of juicy strawberries. They'd like to hike up to Strawberry Summit, which is 100 steps high, and devour their strawberries while watching the sunset. To make things exciting, they'll roll a die 100 times. For each roll, if the die turns up 1 or 2, they'll take 1 step down. If it turns up 3, 4, or 5, they'll take 1 step up. If it turns up 6, they'll roll again and take as many steps up as the die turns up. There's a 0.2% chance they'll lose self control, eat the strawberries on the spot, and return home. The random walk will be simulated 1,000 times in order to determine and visualize the chances that Danae & Shaelo reach Strawberry Summit. The simulation is loosely based on a Dora the Explorer story they like.
